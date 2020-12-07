@@ -9,6 +9,7 @@ object JavaScript_01FastTest : BuildType({
     uuid = "d21dd02d-d6ad-4517-9ac2-5041e8a92baa"
     extId = "JavaScript_01FastTest"
     name = "01. Fast Test"
+    description = "My Js Project"
 
     vcs {
         root(JavaScript.vcsRoots.JavaScript_HttpsGithubComG0t4teamcityCourseCards)
